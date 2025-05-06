@@ -12,7 +12,12 @@ laravel環境構築
 4.　php artisan key:generate
 5.　php artisan migrate
 6.　
-7.
-8.
 
+使用技術
+・PHP
+・Laravel
+・MYQSL
 
+URL
+開発環境　　　http://localhost/
+phpMyAdmin　　http://localhost:8080/
