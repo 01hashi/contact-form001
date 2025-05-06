@@ -14,7 +14,7 @@ laravel環境構築
 6.　
 
 使用技術
-・PHP
+・PHP　8.3
 ・Laravel
 ・MYQSL
 
