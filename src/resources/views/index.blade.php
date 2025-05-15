@@ -40,6 +40,8 @@
               @error('first_name')
               {{ $message }}
               @enderror
+            </div>
+            <div class="form__error">
               @error('last_name')
               {{ $message }}
               @enderror
